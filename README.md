@@ -1,5 +1,7 @@
 # Image Making Pipeline
 
+![Dashboard Preview](assets/dashboard-preview.png)
+
 Local image generation workspace with:
 - Prompt studio + batch gallery UI
 - Local one-click runner service (`local_runner_server.py`)
